@@ -1,0 +1,20 @@
+{
+  "name": "bot-warlock-render",
+  "version": "8.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^4.4.0",
+    "express": "^4.19.2",
+    "ytdl-core": "^4.11.5",
+    "fluent-ffmpeg": "^2.1.2",
+    "axios": "^1.6.8",
+    "fs-extra": "^11.2.0",
+    "puppeteer": "^21.5.2"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
